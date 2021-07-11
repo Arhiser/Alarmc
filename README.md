@@ -1,2 +1,2 @@
 # Alarmc
-Alaerm clock application 
+Alarm clock application 
